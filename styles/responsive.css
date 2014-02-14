@@ -1,0 +1,40 @@
+.section-inner {
+	padding: 0;
+}
+
+/* one-third */
+.one-third, .one-half {
+	width: 100%;
+	margin: 10px 0;
+}
+
+.one-third {
+	border-bottom: 1px solid rgba(20,20,20,0.3);
+	background-color: rgba(240,240,240,1);
+}
+
+.testimonials .section-inner .left {
+	left: 0px;
+}
+
+.testimonials .section-inner .right {
+	top: 0px;
+	right: 0px;
+}
+
+.testimonials .section-inner {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.testimonials .section-inner .comment {
+	padding: 0px 120px;
+}
+
+.testimonials .section-inner .nav-left {
+	display: none;
+}
+
+.testimonials .section-inner .nav-right {
+	display: none;
+}
